@@ -1,7 +1,7 @@
 Order:
-    - title/name
-    - images
-    - price
-    - quantity
+    - title/name*
+    - images*
+    - price*
+    - quantity*
     - total
     - subtotal
